@@ -87,6 +87,7 @@ ul {
 .main-header-container #brand i {
   color: #d10024;
   font-size: 2rem;
+  margin-top: 10px;
 }
 .main-header-container #search-form {
   display: flex;
