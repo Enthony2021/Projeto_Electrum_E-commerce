@@ -77,8 +77,12 @@ ul {
   color: #fff;
 }
 .main-header-container #brand {
+  display: flex;
   font-weight: 800;
   font-size: 3rem;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
 }
 .main-header-container #brand i {
   color: #d10024;
